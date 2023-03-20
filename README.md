@@ -8,7 +8,11 @@ apt up -y
 ```
 
 ```
-apt install python && git -y
+apt install python -y
+```
+
+```
+apt install git -y
 ```
 
 ```
